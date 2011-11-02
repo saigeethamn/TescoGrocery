@@ -23,3 +23,6 @@ Importing a Subversion Repo?
       
 When you're done:
   Continue
+
+My Notes:
+1. If you commit, it commits only in the local branch. After a commit you need to push it to the Origin / remote branch.
